@@ -1,4 +1,3 @@
-# Smartplate360
 # SmartPlate360 🍽️
 
 **SmartPlate360** is a full-featured web application designed to help users track their nutrition, make better dietary choices, reduce food waste, and stay active. Tailored specifically for Indian cuisine and eating habits, this app provides accurate nutrient insights, sustainable food suggestions, and goal-based workout recommendations.
